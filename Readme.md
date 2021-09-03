@@ -13,3 +13,4 @@ https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/03-c
 2. Add `terraform.tfvars` file that includes `project_name` property.
 3. `terraform init`
 4. `terraform apply`
+5. `terraform destroy`
