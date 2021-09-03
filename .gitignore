@@ -1,0 +1,6 @@
+.terraform
+.terraform.*
+terraform.tfstate*
+
+# Excludes intentionally, it includes sensitive data
+terraform.tfvars
